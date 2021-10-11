@@ -1,0 +1,64 @@
+#num1 {
+  width: 300px;
+  margin: 30px auto;
+  background-color: blue;
+  padding: 20px;
+}
+.num2 {
+  width: 300px;
+  margin: 30px auto;
+  background-color: blueviolet;
+  padding: 10px 30px;
+}
+#num3 {
+  border: 5px solid black;
+  padding:  0 5px;
+  background-color: crimson;
+  margin: 10px;
+}
+#num4 {
+  border-top: 5px dashed blue;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: rgb(20, 100, 220);
+  border-bottom: 5px dashed red;
+  border-left: 5px double;
+  border-right: 5px double;
+  margin: 10px;
+}
+#num5 {
+  margin: 10px auto;
+  border-radius: 20% 30% 40% 0;
+  width: 200px;
+  height: 200px;
+  border: 5px solid green;
+  background-color: rgb(220, 20, 20);
+  padding: 20px;
+
+}
+#num6 {
+  padding: 7px 6px 7px 5px;
+  background-color: rgb(220, 157, 20);
+  
+}
+#num7 {
+  padding: 0 0 0 5px;
+  background-color: rgb(220, 20, 47);
+  
+}
+
+#num8 {
+  padding: 10px 20px 10px 0px;
+  background-color: rgb(20, 220, 53);
+}
+
+#num9 {
+  padding: 10px 20px 0px;
+  background-color: rgb(217, 220, 20);
+}
+
+#num10 {
+  
+  background-color: rgb(220, 20, 177);
+}
+
